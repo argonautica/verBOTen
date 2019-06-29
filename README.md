@@ -3,3 +3,5 @@ discord bot that filters out bad words, ones with irregular spacing that other b
 
 
 made using discord.js
+
+use ~help command to see instructions on how to use this bot. 
