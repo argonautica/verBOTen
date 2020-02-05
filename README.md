@@ -1,6 +1,8 @@
 # verBOTen
 discord bot that filters out bad words, ones with irregular spacing that other bots struggle with
 
+created for discord community hack week 
+
 
 made using discord.js
 
